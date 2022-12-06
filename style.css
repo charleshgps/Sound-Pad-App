@@ -20,7 +20,7 @@ body {
     height: 160px;
     float: left;
     transition: all 0.07s;
-    border-radius: 100px;
+    border-radius:26% 74% 25% 75% / 61% 42% 58% 39% ;
     background-color: #673ab7;
     margin: 20px;
 }
